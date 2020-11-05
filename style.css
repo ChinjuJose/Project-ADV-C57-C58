@@ -102,10 +102,20 @@ html{
 #ray{
 	width:400px;
 	height:400px;
+	border:10px solid #AAAAAA;
 }
 
 #nolan{
 	width:400px;
 	height:400px;
+	border:10px solid #AAAAAA;
+}
+
+img{
+	transition: transform .2s;
+}
+
+img:hover{
+	transform: scale(0.9);
 }
 
