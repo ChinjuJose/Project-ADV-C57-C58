@@ -63,6 +63,7 @@ p {
 	line-height: 1.2;
 	color: blueviolet;
 	text-align: justify;
+	font-family: 'Syne Mono', monospace;
 }
 
 #hobbyImg {
@@ -80,5 +81,21 @@ h1 {
 
 h2{
 	font-family: fantasy;
-	color: whitesmoke;
+	font-size: 30px;
+	color:whitesmoke;
 }
+h4{
+	font-family: fantasy;
+	font-size: 40px;
+	color:blueviolet;
+}
+
+h3 {
+	font-family: fantasy;
+    font-size: 30px;
+	color:blueviolet;
+}
+html{
+	scroll-behavior: smooth;
+}
+
