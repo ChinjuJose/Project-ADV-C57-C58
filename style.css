@@ -119,3 +119,11 @@ img:hover{
 	transform: scale(0.9);
 }
 
+#footerSection iframe{
+	width: 100%;
+}
+
+.contact h5{
+	display: inline;
+}
+
